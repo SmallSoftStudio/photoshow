@@ -1,8 +1,7 @@
-# photoshow
-**PhotoShow** is a minimalist self-hosted image gallery powered by Cloudflare R2. Upload, organize, and display your images with grid/masonry views, category management, and password-protected uploads. No database required.
-**图秀** 是一款基于 Cloudflare R2 的轻量级自建图片的存储、展示程序。使用图秀，可以构建一个提供网格/瀑布流浏览、分类管理、密码保护上传等核心功能，无需数据库，部署简单的网站。
-
 # PhotoShow · 图秀
+**PhotoShow** is a minimalist self-hosted image gallery powered by Cloudflare R2. Upload, organize, and display your images with grid/masonry views, category management, and password-protected uploads. No database required.
+
+**图秀** 是一款基于 Cloudflare R2 的轻量级自建图片的存储、展示程序。使用图秀，可以构建一个提供网格/瀑布流浏览、分类管理、密码保护上传等核心功能，无需数据库，部署简单的网站。
 
 > A minimalist self-hosted image gallery powered by Cloudflare R2
 
